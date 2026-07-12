@@ -8,9 +8,6 @@ A browser-based real-time code editor with multiuser collaboration powered by op
 
 [Try CodeSphere Live](https://codecafe.app/)
 
-![demo](https://github.com/user-attachments/assets/3f6875ac-58eb-4a57-8365-778e5a774304)
-
-[Video overview: OT system and editor behavior](https://www.youtube.com/watch?v=NRYpmEbF7lk)
 
 ---
 
