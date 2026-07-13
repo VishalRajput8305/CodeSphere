@@ -17,7 +17,6 @@ Write code together, live — like Google Docs, but for your IDE.
 
 [Live Demo](https://codecafe.app/) · [Report Bug](../../issues) · [Request Feature](../../issues)
 
-file:///C:/Users/visha/Downloads/architecture-3d.svg
 
 </div>
 
