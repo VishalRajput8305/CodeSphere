@@ -59,7 +59,7 @@ It also ships with a live HTML/CSS/JS preview pane, an in-browser terminal, mult
 
 | Category | Technology |
 |---|---|
-| Framework | React 18 + TypeScript |
+| Framework | React 18 + JavaScript |
 | Build tool | Vite |
 | Editor | Monaco Editor (`@monaco-editor/react`) |
 | State management | Zustand |
@@ -92,8 +92,6 @@ It also ships with a live HTML/CSS/JS preview pane, an in-browser terminal, mult
 ---
 
 ## 🔄 How the Collaboration Engine Works
-
-CodeCafé implements **Operational Transformation** independently on both client and server (not a third-party library) to guarantee every participant's document converges to an identical state:
 
 1. A user types → the Monaco adapter emits a local `insert`/`delete` operation.
 2. The client sends the operation to the server tagged with the **revision** it was based on.
