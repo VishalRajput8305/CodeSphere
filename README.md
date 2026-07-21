@@ -14,8 +14,7 @@ Write code together, live — like Google Docs, but for your IDE.
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.6-3178C6?logo=typescript&logoColor=white)](.)
 [![Redis](https://img.shields.io/badge/Redis-7-DC382D?logo=redis&logoColor=white)](.)
 [![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?logo=docker&logoColor=white)](.)
-
-[Live Demo](https://codecafe.app/) · [Report Bug](../../issues) · [Request Feature](../../issues)
+ · [Request Feature](../../issues)
 
 
 </div>
